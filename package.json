@@ -1,0 +1,23 @@
+{
+  "name": "efficacy2testback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biju-borah/efficacy2testback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biju-borah/efficacy2testback/issues"
+  },
+  "homepage": "https://github.com/biju-borah/efficacy2testback#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
